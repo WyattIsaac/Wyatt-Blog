@@ -2,6 +2,8 @@
 
 ## Welcome to GitHub Pages
 
+我的GitBook文章，[wenzhang](https://www.wyattsuen.ml/gitbook-test/)
+
 不知道这个要怎么使用
 
 You can use the [editor on GitHub](https://github.com/WyattIsaac/Githubpages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
