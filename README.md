@@ -5,7 +5,7 @@
 
 ## 我的GitBook文章
 
-### [GitBook🤪→](https://www.wyattsuen.ml/gitbook-test/)
+## [GitBook🤪→](https://www.wyattsuen.ml/gitbook-test/)
 
 ![avatar.png](https://upload.cc/i1/2019/08/01/ZTPvSo.png)
 
@@ -13,7 +13,7 @@
 
 网站优化不够反应很慢还不到如何解决
 
-### [高冷的小小涛](https://wyattisaac.github.io/)
+## [高冷的小小涛](https://wyattisaac.github.io/)
 
 You can use the [editor on GitHub](https://github.com/WyattIsaac/Githubpages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
