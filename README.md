@@ -6,7 +6,7 @@
 
 [GitBook🤪→](https://www.wyattsuen.ml/gitbook-test/)
 
-![touxiang3.jpg](https://i.loli.net/2019/08/01/5d42b7c68419586989.jpg)
+![avatar.png](https://upload.cc/i1/2019/08/01/ZTPvSo.png)
 
 ### 我的个人网站
 
