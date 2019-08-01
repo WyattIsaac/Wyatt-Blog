@@ -2,7 +2,7 @@
 
 ## Welcome to GitHub Pages
 
-我的GitBook文章，[wenzhang](https://www.wyattsuen.ml/gitbook-test/)
+我的GitBook文章，[文章](https://www.wyattsuen.ml/gitbook-test/)
 
 不知道这个要怎么使用
 
@@ -12,25 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```text
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+后面会学习Markdown，感觉非常舒服，然后就是在输入中文输入法的时候使用英文标点符号
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
