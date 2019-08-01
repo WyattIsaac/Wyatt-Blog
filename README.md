@@ -1,10 +1,14 @@
 # 初次尝试
 
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
-### 我的GitBook文章，[GitBook🤪→](https://www.wyattsuen.ml/gitbook-test/)
+### 我的GitBook文章
 
-### 我的个人网站，网站优化不够反应很慢还不到如何解决
+[GitBook🤪→](https://www.wyattsuen.ml/gitbook-test/)
+
+### 我的个人网站
+
+网站优化不够反应很慢还不到如何解决
 
 [高冷的小小涛](https://wyattisaac.github.io/)
 
