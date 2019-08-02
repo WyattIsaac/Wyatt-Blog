@@ -6,7 +6,8 @@
 
 PPHub是第三方GitHub最好的客户端，美观流畅，非常舒服
 
-![](15647372914444.jpg)
+![](https://i.imgur.com/SsbR8K0.jpg)
+
 
 
 
