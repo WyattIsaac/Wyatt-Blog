@@ -3,10 +3,16 @@
 ### *Welcome to My GitHub Pages*
 
 ### *我的GitBook文章*
+☟☟☟
+### [GitBook](https://www.wyattsuen.ml/gitbook-test/)
+<p align="left">
+	<img src="https://upload.cc/i1/2019/08/01/ZTPvSo.png" 
+	alt="Sample" width="200" height="200">
+	<p align="center">
+		<em></em>
+	</p>
+</p>
 
-### [GitBook🤪→](https://www.wyattsuen.ml/gitbook-test/)
-
-![avatar.png-w250](https://upload.cc/i1/2019/08/01/ZTPvSo.png)
     
 ## 我的个人网站
 
