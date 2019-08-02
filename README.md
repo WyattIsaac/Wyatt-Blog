@@ -24,3 +24,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 后面会学习Markdown，感觉非常舒服，然后就是在输入中文输入法的时候使用英文标点符号
+![头像-w300](https://i.imgur.com/yGW1ILh.jpg)
+
