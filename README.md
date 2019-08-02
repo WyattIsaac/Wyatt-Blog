@@ -34,11 +34,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 后面会学习Markdown，感觉非常舒服，然后就是在输入中文输入法的时候使用英文标点符号
 
 <p align="center">
-<img src="https://i.imgur.com/yGW1ILh.jpg?" 
+<img src="http://yanxuan.nosdn.127.net/eb734d1fe239ea8e4f7f8dde4c64fabc.jpg" 
     alt="Sample"  width="250" height="250">
 <p align="center">
 </p>
-
-
-
-
