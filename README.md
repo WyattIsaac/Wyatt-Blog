@@ -26,7 +26,13 @@
 
     网站优化不够反应很慢还不到如何解决
 
-### [高冷的小小涛](https://wyattisaac.github.io/)
+## [高冷的小小涛](https://wyattisaac.github.io/)
+
+<p align="center">
+<img src="https://i.imgur.com/UkLzFwL.jpg" 
+    alt="Sample"  width="250" height="250">
+<p align="center">
+</p>
 
 You can use the [editor on GitHub](https://github.com/WyattIsaac/Githubpages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
     
