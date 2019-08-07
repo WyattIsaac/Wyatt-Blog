@@ -14,7 +14,7 @@
 </p>
 
 
-[第二个READE.md](README-1)
+## [第二个READE.md](README-1)
     
 ## 我的个人网站
 
@@ -38,3 +38,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     alt="Sample"  width="250" height="250">
 <p align="center">
 </p>
+
+
