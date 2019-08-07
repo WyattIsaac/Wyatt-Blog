@@ -3,6 +3,8 @@
 ### *Welcome to My GitHub Pages*
 
 ### *我的GitBook文章*
+
+最近沉迷GitHub无法自拔🌚🌚
 ☟☟☟
 ### [GitBook](https://www.wyattsuen.ml/gitbook-test/)
 <p align="left">
@@ -14,13 +16,28 @@
 </p>
 
 
+<<<<<<< HEAD
 ## [第二个READE.md](README-1)
+=======
+[发现新大陆](README-2)
+
+好开心
+
+哈哈哈哈哈哈哈
+>>>>>>> d27e9eb05c6121432f8388289d189afa82f7b04c
     
 ## 我的个人网站
 
     网站优化不够反应很慢还不到如何解决
 
-### [高冷的小小涛](https://wyattisaac.github.io/)
+## [高冷的小小涛](https://wyattisaac.github.io/)
+
+<p align="center">
+<img src="https://i.imgur.com/UkLzFwL.jpg" 
+    alt="Sample"  width="250" height="250">
+<p align="center">
+</p>
+
 
 You can use the [editor on GitHub](https://github.com/WyattIsaac/Githubpages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
     
@@ -39,4 +56,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <p align="center">
 </p>
 
+<<<<<<< HEAD
 
+=======
+#### 喜欢简单干净，非常在乎UI设计
+>>>>>>> d27e9eb05c6121432f8388289d189afa82f7b04c
