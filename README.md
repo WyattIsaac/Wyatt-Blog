@@ -16,12 +16,10 @@
 </p>
 
 ## [第二个READE.md](README-1)
-=======
-[发现新大陆](README-2)
 
-好开心
+#### [发现新大陆](README-2)
 
-哈哈哈哈哈哈哈
+开心
     
 ## 我的个人网站
 
@@ -40,9 +38,6 @@ You can use the [editor on GitHub](https://github.com/WyattIsaac/Githubpages/edi
     
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
--------
-
-
 ### Markdown
 
 后面会学习Markdown，感觉非常舒服，然后就是在输入中文输入法的时候使用英文标点符号
@@ -53,6 +48,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <p align="center">
 </p>
 
-
-=======
 #### 喜欢简单干净，在乎UI设计
